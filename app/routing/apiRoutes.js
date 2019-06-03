@@ -6,7 +6,7 @@ module.exports = function (app) {
         return res.json(friends);
     });
 
-    app.post("/api/reservations", function (req, res) {
+    app.post("/api/friends", function (req, res) {
         // req.body hosts is equal to the JSON post sent from the user
         // This works because of our body parsing middleware
         var newFriend = req.body;
