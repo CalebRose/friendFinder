@@ -1,0 +1,12 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+  background-image: url("images/digiBackground.png");
+}
+
+.digivice {
+  max-height: 60px;
+  max-width: 60px;
+}
