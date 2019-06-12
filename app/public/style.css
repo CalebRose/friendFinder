@@ -3,7 +3,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: top;
-  background-image: url("images/digiBackground.png");
+  background-image: url("./images/digiBackground.png");
 }
 
 .digivice {
